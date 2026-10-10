@@ -1,0 +1,82 @@
+[
+  {
+    "qid": "Q209",
+    "query": "what are the physical significance and characteristics of separated laminar and turbulent boundary layer flows ."
+  },
+  {
+    "qid": "Q72",
+    "query": "what has been done about viscous interactions in relatively low reynolds number flows, particularly at high mach numbers ."
+  },
+  {
+    "qid": "Q147",
+    "query": "what are the equations which define the stability of simply supported corrugated core sandwich cylinders ."
+  },
+  {
+    "qid": "Q180",
+    "query": "how does scale height vary with altitude in an atmosphere ."
+  },
+  {
+    "qid": "Q224",
+    "query": "in practice, how close to reality are the assumptions that the flow in a hypersonic shock tube using nitrogen is non-viscous and in thermodynamic equilibrium ."
+  },
+  {
+    "qid": "Q203",
+    "query": "are simple empirical methods of any use for estimating pressure distribution in cones ."
+  },
+  {
+    "qid": "Q158",
+    "query": "what are the available properties of high-temperature air ."
+  },
+  {
+    "qid": "Q47",
+    "query": "what are the existing solutions for hypersonic viscous interactions over an insulated flat plate ."
+  },
+  {
+    "qid": "Q111",
+    "query": "have the effects of an elastic edge restraint been considered in previous papers on panel flutter ."
+  },
+  {
+    "qid": "Q183",
+    "query": "what factors have been shown to have a primary influence on sonic boom strength ."
+  },
+  {
+    "qid": "Q218",
+    "query": "what is the heat transfer to a blunt body in the absence of vorticity ."
+  },
+  {
+    "qid": "Q132",
+    "query": "theoretical studies of creep buckling ."
+  },
+  {
+    "qid": "Q1",
+    "query": "what similarity laws must be obeyed when constructing aeroelastic models of heated high speed aircraft ."
+  },
+  {
+    "qid": "Q157",
+    "query": "have flow fields been calculated for blunt-nosed bodies and compared with experiment for a wide range of free stream conditions and body shapes ."
+  },
+  {
+    "qid": "Q148",
+    "query": "papers on small deflection theory for buckling of sandwich cylinders ."
+  },
+  {
+    "qid": "Q53",
+    "query": "what investigations have been made of the flow field about a body moving through a rarefied, partially ionized gas in the presence of a magnetic field ."
+  },
+  {
+    "qid": "Q40",
+    "query": "how can one detect transition phenomena in hypersonic wakes ."
+  },
+  {
+    "qid": "Q46",
+    "query": "what is the combined effect of surface heat and mass transfer on hypersonic flow ."
+  },
+  {
+    "qid": "Q96",
+    "query": "has anyone investigated the unsteady lift distributions on finite wings in subsonic flow ."
+  },
+  {
+    "qid": "Q133",
+    "query": "experimental studies of creep buckling ."
+  }
+]

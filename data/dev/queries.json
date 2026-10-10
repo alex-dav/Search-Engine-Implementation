@@ -1,0 +1,70 @@
+[
+  {
+    "qid": "N01",
+    "query": "what progress has been made in research on unsteady aerodynamics ."
+  },
+  {
+    "qid": "N02",
+    "query": "recent data on shock-induced boundary-layer separation ."
+  },
+  {
+    "qid": "N03",
+    "query": "what are the effects of initial imperfections on the elastic buckling of cylindrical shells under axial compression ."
+  },
+  {
+    "qid": "N04",
+    "query": "what qualitative and quantitative material is available on ablation materials research ."
+  },
+  {
+    "qid": "N05",
+    "query": "how can wing-body, flow field interference effects be approximated rationally ."
+  },
+  {
+    "qid": "N06",
+    "query": "has anyone investigated the effect of shock generated vorticity on heat transfer to a blunt body ."
+  },
+  {
+    "qid": "N07",
+    "query": "how can one detect transition phenomena in boundary layers ."
+  },
+  {
+    "qid": "N08",
+    "query": "previous solutions to the boundary layer similarity equations ."
+  },
+  {
+    "qid": "N09",
+    "query": "what is the criterion for true panel flutter, as opposed to small amplitude vibration arising from acoustic disturbances ."
+  },
+  {
+    "qid": "N10",
+    "query": "what design factors can be used to control lift-drag ratios at mach numbers above 5 ."
+  },
+  {
+    "qid": "N11",
+    "query": "which oscillatory behaviours drive aeroelastic instability"
+  },
+  {
+    "qid": "N12",
+    "query": "how does surface heating vary around an inclined tube"
+  },
+  {
+    "qid": "N13",
+    "query": "research on steering a rocket with a secondary fluid jet"
+  },
+  {
+    "qid": "B01",
+    "query": "delta AND ( wing OR wings )"
+  },
+  {
+    "qid": "B02",
+    "query": "stagnation AND ( heat OR transfer ) AND ( blunt OR body )"
+  },
+  {
+    "qid": "B03",
+    "query": "creep AND ( column OR columns ) AND buckling"
+  },
+  {
+    "qid": "B04",
+    "query": "panel AND flutter"
+  }
+]

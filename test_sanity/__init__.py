@@ -1,0 +1,1 @@
+"""Public submission checks."""
