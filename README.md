@@ -67,5 +67,4 @@ runs/                generated run files
 test\_sanity/         public self-checker
 ```
 
-See the Main Specification for the exact required submission layout.
-
+Video: https://1drv.ms/v/c/763539e587cdff66/IQBBJ4-hec3MQYCpXz4g0fjlAatXdrOgywjpThqGTHNl2Us?e=jIKdtW
